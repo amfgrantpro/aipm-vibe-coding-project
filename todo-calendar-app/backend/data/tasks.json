@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dbf255d4-d1c8-4696-8739-faf8a94af3f8",
+    "text": "Dentist at 3pm tomorrow",
+    "category": "scheduled",
+    "parsed_datetime": "2025-12-11",
+    "done": false,
+    "createdAt": "2025-12-11T09:25:51.135Z",
+    "updatedAt": "2025-12-11T09:49:50.549Z"
+  },
+  {
+    "id": "ab40889f-6fcf-46a7-bf46-1b84646efcb3",
+    "text": "Shopping",
+    "category": "chore",
+    "parsed_datetime": "2025-12-12",
+    "details": "Shopping",
+    "done": false,
+    "createdAt": "2025-12-11T09:48:30.141Z",
+    "updatedAt": "2025-12-11T09:48:41.902Z"
+  },
+  {
+    "id": "50143462-0579-445c-a79f-77189242f970",
+    "text": "Report due Friday",
+    "category": "scheduled",
+    "parsed_datetime": "2025-12-12",
+    "done": false,
+    "createdAt": "2025-12-11T09:26:12.581Z",
+    "updatedAt": "2025-12-11T09:49:36.974Z"
+  },
+  {
+    "id": "1508663c-0ddd-4205-b933-a9b43a7a80dc",
+    "text": "Dinner with friends",
+    "category": "scheduled",
+    "parsed_datetime": "2025-12-13",
+    "details": "Dinner with friends on Saturday",
+    "done": false,
+    "createdAt": "2025-12-11T09:48:57.647Z"
+  },
+  {
+    "id": "9f5882e6-1fa4-4550-a040-550bd514149c",
+    "text": "Leaving for Xmas vacation",
+    "category": "scheduled",
+    "parsed_datetime": "2025-12-23",
+    "details": "Leaving for Xmas vacation on 23rd December",
+    "done": false,
+    "createdAt": "2025-12-11T09:50:16.852Z"
+  },
+  {
+    "id": "334ef055-19d1-48e1-b96d-6dd8857692be",
+    "text": "Vacuuming",
+    "category": "chore",
+    "parsed_datetime": null,
+    "details": "Vacuuming",
+    "done": false,
+    "createdAt": "2025-12-11T09:48:33.067Z"
+  },
+  {
+    "id": "389f7a08-c2e2-4355-8f76-6ffec12fed36",
+    "text": "Not working",
+    "category": "scheduled",
+    "parsed_datetime": "2025-12-13",
+    "details": "Not working on Saturday",
+    "done": false,
+    "createdAt": "2025-12-11T10:28:50.616Z"
+  }
+]

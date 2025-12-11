@@ -1,0 +1,11 @@
+.results-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+@media (max-width: 600px) {
+  .results-list {
+    gap: 10px;
+  }
+}
